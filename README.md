@@ -32,4 +32,6 @@ Welcome to the detection model repository
 
 4. If cuda and pytorch is properly configured in your model then you will be able to see detected image in ``results`` directory..
 
+   just contact me for any doubt
+
 All the best...:)
